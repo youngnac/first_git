@@ -6,6 +6,10 @@ END
 
 Hello, this is a first text file.
 *****
-We are goin to do editing works soon.
-****
+We are going to do editing works soon.
+
 END
+
+Let see how conflict is going to happen.
+
+
