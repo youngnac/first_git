@@ -3,3 +3,9 @@
 첫 번째 수정사항을 발생시킬 예정입니다.
 *****
 END
+
+Hello, this is a first text file.
+*****
+We are goin to do editing works soon.
+****
+END
