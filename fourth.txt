@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hello world
+=======
+Another test 
+
+Hello world.
+
+>>>>>>> 581939d1dd487b97c83fb483a4abfefd57324fea

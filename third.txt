@@ -2,6 +2,10 @@ This is the thid text file for git practice.
 branch work here
 blahblahblah
 
+<<<<<<< HEAD
 12345678
 234235
 3545645
+=======
+Testing 'Branch'
+>>>>>>> 581939d1dd487b97c83fb483a4abfefd57324fea
