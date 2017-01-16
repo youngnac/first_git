@@ -1,15 +1,15 @@
-안녕하세요 첫 번째 텍스트 파일입니다.
+녕하세요 첫 번째 텍스트 파일입니다.
 *****
 첫 번째 수정사항을 발생시킬 예정입니다.
 *****
 END
 
 Hello, this is a first text file.
-*****
+
 We are going to do editing works soon.
 
 END
 
-Let see how conflict is going to happen.
+Wee will see how conflict is going to happen.
 
 
