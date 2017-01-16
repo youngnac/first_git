@@ -5,18 +5,7 @@
 END
 
 Hello, this is a first text file.
-<<<<<<< HEAD
-
-We are going to do editing works soon.
-
-END
-
-Wee will see how conflict is going to happen.
-
-
-=======
 *****
 We are goin to do editing works soon.
 ****
 END
->>>>>>> parent of a967c03... first.txt file edited
